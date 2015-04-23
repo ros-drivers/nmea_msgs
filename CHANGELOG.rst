@@ -2,7 +2,7 @@
 Change log for nmea_msgs package
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
+1.0.0 (2015-04-23)
 ------------------
 * Release into Jade.
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>nmea_msgs</name>
-  <version>0.1.1</version>
+  <version>1.0.0</version>
   <description>The nmea_msgs package contains messages related to data in the NMEA format.</description>
   <maintainer email="eric@ericperko.com">Eric Perko</maintainer>
   <license>BSD</license>
