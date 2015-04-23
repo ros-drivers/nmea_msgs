@@ -2,6 +2,10 @@
 Change log for nmea_msgs package
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+------------------
+* Release into Jade.
+
 0.1.1 (2015-02-15)
 ------------------
 * Cleanup CMakeLists.txt and package.xml
