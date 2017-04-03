@@ -5,6 +5,11 @@ find_package(catkin REQUIRED COMPONENTS std_msgs message_generation)
 
 add_message_files(
   FILES
+  Gpgga.msg
+  Gpgsa.msg
+  Gpgsv.msg
+  GpgsvSatellite.msg
+  Gprmc.msg
   Sentence.msg
 )
 
