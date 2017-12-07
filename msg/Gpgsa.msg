@@ -11,3 +11,4 @@ uint8[] sv_ids
 float32 pdop
 float32 hdop
 float32 vdop
+

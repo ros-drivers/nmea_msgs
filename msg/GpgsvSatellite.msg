@@ -14,3 +14,4 @@ uint16 azimuth
 
 # Signal to noise ratio, 0-99 dB. -1 when null in NMEA sentence (not tracking)
 int8 snr
+
