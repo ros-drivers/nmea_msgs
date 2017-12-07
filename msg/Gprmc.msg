@@ -18,4 +18,3 @@ string date
 float32 mag_var
 string mag_var_direction
 string mode_indicator
-

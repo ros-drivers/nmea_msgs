@@ -17,4 +17,3 @@ uint8 n_satellites
 
 # Up to 4 satellites are described in each message
 GpgsvSatellite[] satellites
-

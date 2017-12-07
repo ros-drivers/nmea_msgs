@@ -23,4 +23,3 @@ float32 undulation
 string undulation_units
 uint32 diff_age
 string station_id
-
