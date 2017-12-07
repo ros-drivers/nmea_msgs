@@ -2,8 +2,8 @@
 Change log for nmea_msgs package
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.0 (2017-12-07)
+------------------
 * Add specific NMEA messages (`#5 <https://github.com/ros-drivers/nmea_msgs/issues/5>`_)
   Add messages for the following NMEA sentences:
   - GPGGA
