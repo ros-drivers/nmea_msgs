@@ -7,7 +7,7 @@
   <maintainer email="evenator@gmail.com">Ed Venator</maintainer>
   <license>BSD</license>
   <url type="website">http://ros.org/wiki/nmea_msgs</url>
-  <author email="eric@ericperko.com">Eric Perko</author>
+  <author email="ankl@kth.se">Andreas Klintberg</author>
 
 
    <depend>builtin_interfaces</depend>
