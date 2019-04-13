@@ -5,7 +5,7 @@
 #        receiver, usually the location of the antenna.  This is a
 #        Euclidean frame relative to the vehicle, not a reference
 #        ellipsoid.
-Header header
+std_msgs/Header header
 
 # This should only contain ASCII characters in order to be a valid NMEA0183 sentence.
 string sentence

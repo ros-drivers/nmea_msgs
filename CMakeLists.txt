@@ -1,22 +1,27 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 3.5)
+
 project(nmea_msgs)
 
-find_package(catkin REQUIRED COMPONENTS std_msgs message_generation)
+# Default to C++14
+if(NOT CMAKE_CXX_STANDARD)
+  set(CMAKE_CXX_STANDARD 14)
+endif()
 
-add_message_files(
-  FILES
-  Gpgga.msg
-  Gpgsa.msg
-  Gpgsv.msg
-  GpgsvSatellite.msg
-  Gprmc.msg
-  Sentence.msg
+find_package(ament_cmake REQUIRED)
+find_package(rosidl_default_generators REQUIRED)
+find_package(std_msgs REQUIRED)
+
+rosidl_generate_interfaces(${PROJECT_NAME}
+   "msg/Sentence.msg"
+   "msg/Gpgga.msg"
+   "msg/Gpgsa.msg"
+   "msg/Gpgsv.msg"
+   "msg/GpgsvSatellite.msg"
+   "msg/Gprmc.msg"
+   DEPENDENCIES std_msgs
 )
 
-generate_messages(
-  DEPENDENCIES
-  std_msgs
-)
 
-catkin_package(CATKIN_DEPENDS std_msgs message_runtime)
+ament_export_dependencies(rosidl_default_runtime)
 
+ament_package()
