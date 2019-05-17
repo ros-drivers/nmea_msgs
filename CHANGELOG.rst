@@ -2,8 +2,8 @@
 Change log for nmea_msgs package
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.0 (2019-05-17)
+------------------
 * Initial release for ROS 2
 * Contributors: Andreas Klintberg, Edward Venator
 
