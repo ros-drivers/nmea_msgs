@@ -2,6 +2,11 @@
 Change log for nmea_msgs package
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Initial release for ROS 2
+* Contributors: Andreas Klintberg, Edward Venator
+
 1.1.0 (2017-12-07)
 ------------------
 * Add specific NMEA messages (`#5 <https://github.com/ros-drivers/nmea_msgs/issues/5>`_)
