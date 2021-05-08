@@ -20,3 +20,6 @@ generate_messages(
 
 catkin_package(CATKIN_DEPENDS std_msgs message_runtime)
 
+install(FILES LICENSE.txt
+   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
+)

@@ -4,7 +4,7 @@
   <version>1.1.0</version>
   <description>The nmea_msgs package contains messages related to data in the NMEA format.</description>
   <maintainer email="evenator@gmail.com">Ed Venator</maintainer>
-  <license>BSD</license>
+  <license>BSD-3-Clause</license>
   <url type="website">http://ros.org/wiki/nmea_msgs</url>
   <author email="eric@ericperko.com">Eric Perko</author>
 
