@@ -7,16 +7,16 @@ string message_id
 float64 utc_seconds
 
 # Root-Mean-Squared value of standard deviation of range inputs
-float64 rms
+float32 rms
 
 # Standard Deviations of semi-major and minor axes of error ellipse
-float64 semi_major_dev
-float64 semi_minor_dev
+float32 semi_major_dev
+float32 semi_minor_dev
 
 # Orientation of the semi-major axis of error ellipse with respect to true north
-float64 orientation
+float32 orientation
 
 # Standard Deviations of latitude, longitude, and altitude measurements
-float64 lat_dev
-float64 lon_dev
-float64 alt_dev
+float32 lat_dev
+float32 lon_dev
+float32 alt_dev
