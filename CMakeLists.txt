@@ -10,6 +10,7 @@ add_message_files(
   Gpgsv.msg
   GpgsvSatellite.msg
   Gprmc.msg
+  Gpgst.msg
   Sentence.msg
 )
 
