@@ -14,8 +14,8 @@ find_package(std_msgs REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
    "msg/Sentence.msg"
    "msg/Gpgga.msg"
-   "msg/Gpgst.msg"
    "msg/Gpgsa.msg"
+   "msg/Gpgst.msg"
    "msg/Gpgsv.msg"
    "msg/GpgsvSatellite.msg"
    "msg/Gprmc.msg"
