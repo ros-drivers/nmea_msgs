@@ -4,20 +4,20 @@ Header header
 string message_id
 
 #track made good relative to true north
-float64 tmg_a
-string tmg_a_ref
+float64 track_t
+string track_t_ref
 
 # track made good relative to magnatic north
-float64 tmg_b
-string tmg_b_ref
+float64 track_m
+string track_m_ref
 
 # measured horizontal speed in knots
-float32 speed_a
-string speed_a_unit
+float32 speed_n
+string speed_n_unit
 
 # measured horizontal speed in km/hr
-float32 speed_b
-string speed_b_unit
+float32 speed_k
+string speed_k_unit
 
 # mode indicator
-string mode
+string mode_indicator
