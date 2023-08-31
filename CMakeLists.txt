@@ -11,9 +11,9 @@ add_message_files(
   GpgsvSatellite.msg
   Gprmc.msg
   Gpgst.msg
-  Sentence.msg
   Gpvtg.msg
   Gpzda.msg
+  Sentence.msg
 )
 
 generate_messages(
