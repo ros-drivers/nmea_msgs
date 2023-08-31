@@ -21,5 +21,5 @@ string altitude_units
 
 float32 undulation
 string undulation_units
-uint32 diff_age
+float64 diff_age
 string station_id
