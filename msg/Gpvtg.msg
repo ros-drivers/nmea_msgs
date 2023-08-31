@@ -19,4 +19,5 @@ string speed_a_unit
 float32 speed_b
 string speed_b_unit
 
+# mode indicator
 string mode
