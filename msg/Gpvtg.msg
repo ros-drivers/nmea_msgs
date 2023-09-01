@@ -3,21 +3,21 @@ Header header
 
 string message_id
 
-# track made good relative to true north
+# Track made good relative to true north
 float32 track_t
 string track_t_ref
 
-# track made good relative to magnetic north
+# Track made good relative to magnetic north
 float32 track_m
 string track_m_ref
 
-# measured horizontal speed in knots
+# Measured horizontal speed in knots
 float32 speed_n
 string speed_n_unit
 
-# measured horizontal speed in km/hr
+# Measured horizontal speed in km/hr
 float32 speed_k
 string speed_k_unit
 
-# mode indicator
+# Mode indicator
 string mode_indicator

@@ -9,8 +9,8 @@ uint8 day
 uint8 month
 uint16 year
 
-# local time zone offset from GMT (0 to +/-13 hr)
+# Local time zone offset from GMT (0 to +/-13 hr)
 int8 hour_offset_gmt
 
-#local time zone offset from GMT (0 to 59 minutes)
+# Local time zone offset from GMT (0 to 59 minutes)
 uint8 minute_offset_gmt
