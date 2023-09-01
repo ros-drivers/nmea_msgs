@@ -3,7 +3,7 @@ Header header
 
 string message_id
 
-#track made good relative to true north
+# track made good relative to true north
 float64 track_t
 string track_t_ref
 
