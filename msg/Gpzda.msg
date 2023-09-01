@@ -3,7 +3,7 @@ Header header
 
 string message_id
 
-float64 utc_seconds
+uint32 utc_seconds
 
 uint8 day
 uint8 month
