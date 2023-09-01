@@ -8,7 +8,7 @@ float32 track_t
 string track_t_ref
 
 # track made good relative to magnatic north
-float64 track_m
+float32 track_m
 string track_m_ref
 
 # measured horizontal speed in knots
