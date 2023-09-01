@@ -7,7 +7,7 @@ string message_id
 float32 track_t
 string track_t_ref
 
-# track made good relative to magnatic north
+# track made good relative to magnetic north
 float32 track_m
 string track_m_ref
 
