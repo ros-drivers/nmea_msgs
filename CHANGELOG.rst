@@ -2,8 +2,8 @@
 Change log for nmea_msgs package
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.1.0 (2023-09-03)
+------------------
 * Add GPVTG and GPZDA Sentences (`#19 <https://github.com/evenator/nmea_msgs/issues/19>`_)
   GPVTG is useful for interpreting speed and heading.
   GPZDA is useful for syncing date and time.
