@@ -21,6 +21,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
    "msg/Gprmc.msg"
    "msg/Gpvtg.msg"
    "msg/Gpzda.msg"
+   "msg/Gphdt.msg"
    DEPENDENCIES std_msgs
 )
 
